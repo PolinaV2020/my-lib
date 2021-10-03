@@ -3,6 +3,7 @@ import { Route, NavLink, Switch } from "react-router-dom";
 import Genres from "../Genres/Genres.js";
 import UserProfile from "../UserProfile/UserProfile.js";
 import Reviews from "../Reviews/Reviews.js";
+import Articles from "../Articles/Articles.js";
 
 const Navigation = (props) => {
   return (
@@ -10,6 +11,9 @@ const Navigation = (props) => {
       <nav>
         <li>
           <NavLink to="/genres">Genres</NavLink>
+        </li>
+        <li>
+          <NavLink to="/articles">Articles</NavLink>
         </li>
         <li>
           <NavLink to="/reviews">Reviews</NavLink>
@@ -21,6 +25,7 @@ const Navigation = (props) => {
       <Switch>
         <Route path="/genres" component={Genres}></Route>
         <Route path="/reviews" component={Reviews}></Route>
+        <Route path="/articles" component={Articles}></Route>
         <Route path="/user-profile" component={UserProfile}></Route>
       </Switch>
     </div>

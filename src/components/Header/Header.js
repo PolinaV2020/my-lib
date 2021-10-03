@@ -2,7 +2,11 @@ import React from "react";
 import Navigation from "../Navigation/Navigation.js";
 
 const Header = (props) => {
-  return <Navigation />;
+  return (
+    <header>
+      <Navigation />
+    </header>
+  );
 };
 
 export default Header;

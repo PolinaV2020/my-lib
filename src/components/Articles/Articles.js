@@ -1,9 +1,16 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
+import axios from "axios";
 
 const Articles = (props) => {
-  let articles = fetch("http://localhost:3001/articles")
-    .then((response) => response.json())
-    .then((articles) => alert(articles[0].title));
+  const [articles, setState] = useState([]);
+
+  return (
+    <div>
+      {articles.map((article) => {
+        return <h1 key={article.id}>{article.title}</h1>;
+      })}
+    </div>
+  );
 };
 
 export default Articles;

@@ -1,7 +1,12 @@
 import React from "react";
 
 const UserProfile = (props) => {
-  return <h1>There will be users UserProfile</h1>;
+  return (
+    <div>
+      <h1>There will be users UserProfile</h1>
+      <p></p>
+    </div>
+  );
 };
 
 export default UserProfile;

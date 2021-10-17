@@ -1,5 +1,6 @@
 import axios from "axios";
 import React, { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 
 const Reviews = (props) => {
   const [reviews, setReviews] = useState([]);
@@ -26,10 +27,12 @@ const Reviews = (props) => {
     <div>
       {reviews.map((review) => {
         return (
-          <div key={review.id}>
-            <h4>{review.title}</h4>
-            <p>{review.review}</p>
-          </div>
+          <Link key={review.id} to={`/reviews/${review.id}`}>
+            <div>
+              <h4>{review.title}</h4>
+              <p>{review.review}</p>
+            </div>
+          </Link>
         );
       })}
       <div>

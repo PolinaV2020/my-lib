@@ -1,10 +1,198 @@
 {
- "articles": [
-  {"id": 1, "title": "'My Monticello' Is a Stunning Collection of Dark Love Letters to Home", 
-  "author": "Cybil", "text": "When it comes to writing, Jocelyn Johnson is about that life. The Virginia native—born, bred, and wed—has had aspirations of being a published author since she was a child. And, I know, many authors say that, but you need look no further for proof than this tweet of Johnson’s first author photo, taken at the ripe age of seven. Still, the road to publishing wasn’t without its many potholes. Even after gaining the representation of an agent, her first two manuscripts didn’t lead to book deals. The main obstacle then,” as Johnson tells it, “was deciding whether to keep doing it or not.” Fortunately for us, she didn’t give up, and this tenacity to achieve her lifelong dream culminated in her debut short story collection, My Monticello, which includes five captivating short stories and a knockout novella. My Monticello, as you’ll soon read more about, was born out of Johnson’s need to make sense of what happened in her hometown of Charlottesville on August 12, 2017. “A very stark event,” she calls it. With Virginia as the setting, this collection focuses on everyday individuals on the pursuit for life, liberty, and happiness, not only allowing us to see ourselves reflected in their stories, but also reminding us that perhaps the strongest weapon any one person can wield against hate is that of hope. In addition to this theme of hope, Johnson spoke with Goodreads contributor and author of Black Buck Mateo Askaripour about writing with intention, Virginia, and some of the books she’ll never forget. Their conversation has been edited. Goodreads: There’s so much going on in My Monticello. When I read “Control Negro,” I said, “Yo, YO!” That story. Ah, man. It just spoke to me in so many ways. It reminded me of how John A. Williams, and people like Chester Himes, wrote this fantastic type of fiction in the ’50s, ’60s, and ’70s. Just the whole conceit, and how the main character was performing a social experiment on his son from afar. So cool. And “Something Sweet on Our Tongues,” which was really funny, but also sad. I remember what it was like being a Black kid in school, the shenanigans boys get into, and what it feels like to see that kid, who’s left out or different. Whew. So, first question: What was your intention with this collection? Jocelyn Nicole Johnson: That’s a good question. I had two big things that were important to me. One is just that I’m a native Virginian, and a Black woman in Virginia, at that. These stories are kind of a weird, dark love letter to Virginia because I grew up here, I was born here, I went to school in the Shenandoah Valley, I live in Charlottesville, I got married and started my family here, and there are things I know about Virginia, places I’m familiar with—so I wanted to include a lot of that in this book. It’s what I know, it’s what I can speak to with some sort of authority. Also, on the darker side, it’s this almost vengeful response to these really obscene, brutal, and racist things that have happened here, in Charlottesville, particularly over the last couple of years. Places where I’ve felt excluded from this idea of home, here in Virginia, so I was thinking about those two things, side by side.", 
-  "image": "/src/assets/reviews/my-monticello-cover.jpg", "date": "October 1, 2021", "likes": 2, "comments": 0}, 
-  {"id": 2, "title": "Love Grows Up in the New Aristotle and Dante Novel", "author": "Cybil", "text": "Benjamin Alire Sáenz, author of Aristotle and Dante Discover the Secrets of the Universe and many other award-winning YA and children's books, digs deeper into the growing pains and beauty of love in Aristotle and Dante Dive into the Waters of the World. Aristotle and Dante met at a swimming pool in Aristotle and Dante Discover the Secrets of the Universe and thought they had nothing in common—until they fell in love. Since meeting Dante, Ari has become more outspoken and ready to make his voice heard. And Dante has continued to be a dreamer, something that fills Ari with both annoyance and desire. Now, in this sequel during their senior year of high school, they have to navigate how to stay in love when the world doesn’t make being queer easy. But when Ari experiences a major loss, he has to fight to create a life that is unapologetically joyous and his own. Both tender and gut-wrenching, this sequel explores how love can make you question if it’s even worth it while also fulfilling you. Goodreads contributor Arriel Vinson interviewed Sáenz about growth, desire, and what optimistic love stories can look like.", 
-  "image": "/src/assets/reviews/aristotle-and-dante-discover-the-secrets-of-the-universe-cover.jpg", 
-  "date": "October 1, 2021", "likes": 6, "comments": 0}
-]
+  "articles": [
+    {
+      "id": 1,
+      "title": "'My Monticello' Is a Stunning Collection of Dark Love Letters to Home",
+      "author": "Cybil",
+      "text": "When it comes to writing, Jocelyn Johnson is about that life. The Virginia native—born, bred, and wed—has had aspirations of being a published author since she was a child. And, I know, many authors say that, but you need look no further for proof than this tweet of Johnson’s first author photo, taken at the ripe age of seven. Still, the road to publishing wasn’t without its many potholes. Even after gaining the representation of an agent, her first two manuscripts didn’t lead to book deals. The main obstacle then,” as Johnson tells it, “was deciding whether to keep doing it or not.” Fortunately for us, she didn’t give up, and this tenacity to achieve her lifelong dream culminated in her debut short story collection, My Monticello, which includes five captivating short stories and a knockout novella. My Monticello, as you’ll soon read more about, was born out of Johnson’s need to make sense of what happened in her hometown of Charlottesville on August 12, 2017. “A very stark event,” she calls it. With Virginia as the setting, this collection focuses on everyday individuals on the pursuit for life, liberty, and happiness, not only allowing us to see ourselves reflected in their stories, but also reminding us that perhaps the strongest weapon any one person can wield against hate is that of hope. In addition to this theme of hope, Johnson spoke with Goodreads contributor and author of Black Buck Mateo Askaripour about writing with intention, Virginia, and some of the books she’ll never forget. Their conversation has been edited. Goodreads: There’s so much going on in My Monticello. When I read “Control Negro,” I said, “Yo, YO!” That story. Ah, man. It just spoke to me in so many ways. It reminded me of how John A. Williams, and people like Chester Himes, wrote this fantastic type of fiction in the ’50s, ’60s, and ’70s. Just the whole conceit, and how the main character was performing a social experiment on his son from afar. So cool. And “Something Sweet on Our Tongues,” which was really funny, but also sad. I remember what it was like being a Black kid in school, the shenanigans boys get into, and what it feels like to see that kid, who’s left out or different. Whew. So, first question: What was your intention with this collection? Jocelyn Nicole Johnson: That’s a good question. I had two big things that were important to me. One is just that I’m a native Virginian, and a Black woman in Virginia, at that. These stories are kind of a weird, dark love letter to Virginia because I grew up here, I was born here, I went to school in the Shenandoah Valley, I live in Charlottesville, I got married and started my family here, and there are things I know about Virginia, places I’m familiar with—so I wanted to include a lot of that in this book. It’s what I know, it’s what I can speak to with some sort of authority. Also, on the darker side, it’s this almost vengeful response to these really obscene, brutal, and racist things that have happened here, in Charlottesville, particularly over the last couple of years. Places where I’ve felt excluded from this idea of home, here in Virginia, so I was thinking about those two things, side by side.",
+      "image": "/src/assets/reviews/my-monticello-cover.jpg",
+      "date": "October 1, 2021",
+      "likes": 2,
+      "comments": 0
+    },
+    {
+      "id": 2,
+      "title": "Love Grows Up in the New Aristotle and Dante Novel",
+      "author": "Cybil",
+      "text": "Benjamin Alire Sáenz, author of Aristotle and Dante Discover the Secrets of the Universe and many other award-winning YA and children's books, digs deeper into the growing pains and beauty of love in Aristotle and Dante Dive into the Waters of the World. Aristotle and Dante met at a swimming pool in Aristotle and Dante Discover the Secrets of the Universe and thought they had nothing in common—until they fell in love. Since meeting Dante, Ari has become more outspoken and ready to make his voice heard. And Dante has continued to be a dreamer, something that fills Ari with both annoyance and desire. Now, in this sequel during their senior year of high school, they have to navigate how to stay in love when the world doesn’t make being queer easy. But when Ari experiences a major loss, he has to fight to create a life that is unapologetically joyous and his own. Both tender and gut-wrenching, this sequel explores how love can make you question if it’s even worth it while also fulfilling you. Goodreads contributor Arriel Vinson interviewed Sáenz about growth, desire, and what optimistic love stories can look like.",
+      "image": "/src/assets/reviews/aristotle-and-dante-discover-the-secrets-of-the-universe-cover.jpg",
+      "date": "October 1, 2021",
+      "likes": 6,
+      "comments": 0
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "userId": 3,
+      "title": "Joy",
+      "review": "This book series is a joy for learning JavaScript. It's succinct yet comprehensive. It gave me the big picture but did not leave out the nitty-gritty details. I can compare it to another highly-recommended book: Eloquent JavaScript. To me You Don't Know JS Yet is a hundred times better! Ultimately, eloquence enables good communication. This series has that kind of eloquence in spades. I can't wait for the revised versions of the other books in the series to come out!"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "title": "Awesome",
+      "review": "I have the original series of YDKJS and I am will be buying every book of the second series. I truly appreciate Kyle's style of wring for his user. I have been working with JavaScript for over a decade and even reading this intro it brought me to deeply think about 'use strict' that I had never thought about before. I credit these series to my increase of excitement in wanting to learn JavaScript at a deeper level."
+    },
+    {
+      "title": "gggg",
+      "review": "8888888",
+      "userId": 3,
+      "id": 3
+    },
+    {
+      "title": "gggg",
+      "review": "8888888",
+      "userId": 3,
+      "id": 4
+    },
+    {
+      "title": "gggg",
+      "review": "8888888",
+      "userId": 3,
+      "id": 5
+    },
+    {
+      "title": "gggg",
+      "review": "8888888",
+      "userId": 3,
+      "id": 6
+    },
+    {
+      "title": "gggg",
+      "review": "8888888",
+      "userId": 3,
+      "id": 7
+    },
+    {
+      "title": "gggg",
+      "review": "8888888",
+      "userId": 3,
+      "id": 8
+    },
+    {
+      "title": "gggg",
+      "review": "8888888",
+      "userId": 3,
+      "id": 9
+    }
+  ],
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "123456",
+      "id": 1,
+      "name": "Olivier"
+    },
+    {
+      "email": "test@test.com",
+      "password": "654321",
+      "id": 2,
+      "name": "John"
+    },
+    {
+      "email": "pixie@test.com",
+      "password": "1997",
+      "id": 3,
+      "name": "Polina"
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "isbn": "9781593279509",
+      "title": "Eloquent JavaScript, Third Edition",
+      "subtitle": "A Modern Introduction to Programming",
+      "author": "Marijn Haverbeke",
+      "published": "2018-12-04T00:00:00.000Z",
+      "publisher": "No Starch Press",
+      "pages": 472,
+      "description": "JavaScript lies at the heart of almost every modern web application, from social apps like Twitter to browser-based game frameworks like Phaser and Babylon. Though simple for beginners to pick up and play with, JavaScript is a flexible, complex language that you can use to build full-scale applications.",
+      "website": "http://eloquentjavascript.net/"
+    },
+    {
+      "id": 2,
+      "isbn": "9781491943533",
+      "title": "Practical Modern JavaScript",
+      "subtitle": "Dive into ES6 and the Future of JavaScript",
+      "author": "Nicolás Bevacqua",
+      "published": "2017-07-16T00:00:00.000Z",
+      "publisher": "O'Reilly Media",
+      "pages": 334,
+      "description": "To get the most out of modern JavaScript, you need learn the latest features of its parent specification, ECMAScript 6 (ES6). This book provides a highly practical look at ES6, without getting lost in the specification or its implementation details.",
+      "website": "https://github.com/mjavascript/practical-modern-javascript"
+    },
+    {
+      "id": 3,
+      "isbn": "9781593277574",
+      "title": "Understanding ECMAScript 6",
+      "subtitle": "The Definitive Guide for JavaScript Developers",
+      "author": "Nicholas C. Zakas",
+      "published": "2016-09-03T00:00:00.000Z",
+      "publisher": "No Starch Press",
+      "pages": 352,
+      "description": "ECMAScript 6 represents the biggest update to the core of JavaScript in the history of the language. In Understanding ECMAScript 6, expert developer Nicholas C. Zakas provides a complete guide to the object types, syntax, and other exciting changes that ECMAScript 6 brings to JavaScript.",
+      "website": "https://leanpub.com/understandinges6/read"
+    },
+    {
+      "id": 4,
+      "isbn": "9781449365035",
+      "title": "Speaking JavaScript",
+      "subtitle": "An In-Depth Guide for Programmers",
+      "author": "Axel Rauschmayer",
+      "published": "2014-04-08T00:00:00.000Z",
+      "publisher": "O'Reilly Media",
+      "pages": 460,
+      "description": "Like it or not, JavaScript is everywhere these days -from browser to server to mobile- and now you, too, need to learn the language or dive deeper than you have. This concise book guides you into and through JavaScript, written by a veteran programmer who once found himself in the same position.",
+      "website": "http://speakingjs.com/"
+    },
+    {
+      "id": 5,
+      "isbn": "9781449331818",
+      "title": "Learning JavaScript Design Patterns",
+      "subtitle": "A JavaScript and jQuery Developer's Guide",
+      "author": "Addy Osmani",
+      "published": "2012-08-30T00:00:00.000Z",
+      "publisher": "O'Reilly Media",
+      "pages": 254,
+      "description": "With Learning JavaScript Design Patterns, you'll learn how to write beautiful, structured, and maintainable JavaScript by applying classical and modern design patterns to the language. If you want to keep your code efficient, more manageable, and up-to-date with the latest best practices, this book is for you.",
+      "website": "http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/"
+    },
+    {
+      "id": 6,
+      "isbn": "9798602477429",
+      "title": "You Don't Know JS Yet",
+      "subtitle": "Get Started",
+      "author": "Kyle Simpson",
+      "published": "2020-01-28T00:00:00.000Z",
+      "publisher": "Independently published",
+      "pages": 143,
+      "description": "The worldwide best selling You Don't Know JS book series is back for a 2nd edition: You Don't Know JS Yet. All 6 books are brand new, rewritten to cover all sides of JS for 2020 and beyond.",
+      "website": "https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/get-started"
+    },
+    {
+      "id": 7,
+      "isbn": "9781484200766",
+      "title": "Pro Git",
+      "subtitle": "Everything you neeed to know about Git",
+      "author": "Scott Chacon and Ben Straub",
+      "published": "2014-11-18T00:00:00.000Z",
+      "publisher": "Apress; 2nd edition",
+      "pages": 458,
+      "description": "Pro Git (Second Edition) is your fully-updated guide to Git and its usage in the modern world. Git has come a long way since it was first developed by Linus Torvalds for Linux kernel development. It has taken the open source world by storm since its inception in 2005, and this book teaches you how to use it like a pro.",
+      "website": "https://git-scm.com/book/en/v2"
+    },
+    {
+      "id": 8,
+      "isbn": "9781484242216",
+      "title": "Rethinking Productivity in Software Engineering",
+      "subtitle": "",
+      "author": "Caitlin Sadowski, Thomas Zimmermann",
+      "published": "2019-05-11T00:00:00.000Z",
+      "publisher": "Apress",
+      "pages": 310,
+      "description": "Get the most out of this foundational reference and improve the productivity of your software teams. This open access book collects the wisdom of the 2017 \"Dagstuhl\" seminar on productivity in software engineering, a meeting of community leaders, who came together with the goal of rethinking traditional definitions and measures of productivity.",
+      "website": "https://doi.org/10.1007/978-1-4842-4221-6"
+    }
+  ]
 }

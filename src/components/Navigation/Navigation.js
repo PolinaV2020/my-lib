@@ -4,6 +4,8 @@ import Genres from "../Genres/Genres.js";
 import UserProfile from "../UserProfile/UserProfile.js";
 import Reviews from "../Reviews/Reviews.js";
 import Articles from "../Articles/Articles.js";
+import Books from "../Books/Books.js";
+import Login from "../Login/Login.js";
 
 const Navigation = (props) => {
   return (
@@ -21,12 +23,20 @@ const Navigation = (props) => {
         <li>
           <NavLink to="/user-profile">My page</NavLink>
         </li>
+        <li>
+          <NavLink to="/books">All books</NavLink>
+        </li>
+        <li>
+          <NavLink to="/login">Login</NavLink>
+        </li>
       </nav>
       <Switch>
         <Route path="/genres" component={Genres}></Route>
         <Route path="/reviews" component={Reviews}></Route>
         <Route path="/articles" component={Articles}></Route>
         <Route path="/user-profile" component={UserProfile}></Route>
+        <Route path="/books" component={Books}></Route>
+        <Route path="/login" component={Login}></Route>
       </Switch>
     </div>
   );

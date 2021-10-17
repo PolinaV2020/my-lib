@@ -1,33 +1,33 @@
+import axios from "axios";
 import React from "react";
-import { useDispatch, useSelector } from "react-redux";
+import { useSelector, useDispatch } from "react-redux";
 
-const Genres = () => {
-  const dispatch = useDispatch();
+const Genres = (props) => {
+  // const number = useSelector((state) => {
+  //   return state.number;
+  // });
 
-  const number = useSelector((state) => {
-    return state.number;
-  });
+  // const dispatch = useDispatch();
 
-  const addToCollectionAction = {
-    type: "BUTTON_ADD_TO_COLLECTION_PRESSED"
-  };
+  // const addToCollectionAction = {
+  //   type: "BUTTON_ADD_TO_COLLECTION_PRESSED"
+  // };
 
-  const addToCollection = () => {
-    dispatch(addToCollectionAction);
-  };
+  // const addToCollection = () => {
+  //   dispatch(addToCollectionAction);
+  // };
 
-  return (
-    <div>
-      <h1>There will be users Genres</h1>
-      <button
+  return <h1>There will be users Genres</h1>;
+  // <div>
+  /* <button
         onClick={() => {
           addToCollection;
         }}
       >
         Добавить в коллекцию
       </button>
-    </div>
-  );
+      {number}
+    </div> */
 };
 
 export default Genres;

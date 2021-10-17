@@ -3,9 +3,11 @@ import React from "react";
 const Book = (props) => {
   return (
     <div>
-      <h1>Book name</h1>
-      <h2>Author</h2>
-      <time>2021</time>
+      <h1>{props.title}</h1>
+      <h2>{props.author}</h2>
+      <time>{props.dateOfPublishing}</time>
     </div>
   );
 };
+
+export default Book;

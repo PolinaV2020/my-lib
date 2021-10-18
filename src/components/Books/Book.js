@@ -18,9 +18,9 @@ const Book = (props) => {
 
   return (
     <div>
-      <h1>{book.title}</h1>
-      <h2>{book.author}</h2>
-      <time>{book.published}</time>
+      <h1>{props.title}</h1>
+      <h2>{props.author}</h2>
+      <time>{props.published}</time>
     </div>
   );
 };

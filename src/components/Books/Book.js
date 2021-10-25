@@ -2,7 +2,7 @@ import axios from "axios";
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 
-const Book = (props) => {
+const Book = () => {
   const [book, setBook] = useState({});
 
   const { id } = useParams();
@@ -18,9 +18,9 @@ const Book = (props) => {
 
   return (
     <div>
-      <h1>{props.title}</h1>
-      <h2>{props.author}</h2>
-      <time>{props.published}</time>
+      <h1>{book.title}</h1>
+      <h2>{book.author}</h2>
+      <time>{book.dateOfPublishing}</time>
     </div>
   );
 };

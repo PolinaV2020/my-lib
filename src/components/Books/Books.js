@@ -22,11 +22,9 @@ const Books = (props) => {
       {books.map((book) => {
         return (
           <Link key={book.id} to={`/books/${book.id}`}>
-            <Book
-              title={book.title}
-              author={book.author}
-              dateOfPublishing={book.published}
-            />
+            <h1>{book.title}</h1>
+            <h2>{book.author}</h2>
+            <time>{book.published}</time>
           </Link>
         );
       })}

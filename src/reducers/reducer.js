@@ -1,11 +1,11 @@
 const initialState = {
-  number: 0
+  bookLikesNumber: 0
 };
 
 const reducer = (state = initialState, action) => {
-  if (action.type === "BUTTON_ADD_TO_COLLECTION_PRESSED") {
+  if (action.type === "BUTTON_LIKE_CLICK") {
     return {
-      number: state.number + 1
+      bookLikesNumber: state.bookLikesNumber + 1
     };
   }
   return state;

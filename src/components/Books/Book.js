@@ -2,6 +2,7 @@ import axios from "axios";
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
+import { Typography, Rating } from "@mui/material";
 
 const Book = () => {
   const [book, setBook] = useState({});
@@ -36,8 +37,12 @@ const Book = () => {
       <h1>{book.title}</h1>
       <h2>{book.author}</h2>
       <time>{book.dateOfPublishing}</time>
-      <span>{bookLikesNumber}</span>
-      <button onClick={changeLikesNumber}>Like</button>
+      <Typography component="legend">Controlled</Typography>
+      <Rating
+        name="simple-controlled"
+        value={bookLikesNumber}
+        onChange={changeLikesNumber}
+      />
     </div>
   );
 };

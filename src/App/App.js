@@ -1,8 +1,8 @@
 import React from "react";
-import Router from "../components/Router/Router.js";
+import Header from "../components/Header/Header.js";
 
 const App = () => {
-  return <Router />;
+  return <Header />;
 };
 
 export default App;

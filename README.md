@@ -1,6 +1,6 @@
-## About The Project
+# About The Project
 
-## Technologies
+# Technologies
 
 REACT
 REDUX
@@ -9,7 +9,7 @@ REDUX
 
 # Front End:
 
-# Clone this repository
+1. Clone this repository
 
 $ git clone https://github.com/PolinaV2020/my-lib.git
 
@@ -17,7 +17,7 @@ $ git clone https://github.com/PolinaV2020/my-lib.git
 
 $ cd my-lib
 
-# Install dependencies
+2. Install dependencies
 
 $ npm install
 

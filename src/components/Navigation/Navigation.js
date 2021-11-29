@@ -10,6 +10,7 @@ import Articles from "../Articles/Articles.js";
 import Book from "../Books/Book.js";
 import Books from "../Books/Books.js";
 import NavBar from "./NavBar.js";
+import Main from "../Main/Main.js";
 
 const Navigation = () => {
   return (
@@ -24,6 +25,7 @@ const Navigation = () => {
         <Route path="/books/:id" component={Book}></Route>
         <Route path="/books" component={Books}></Route>
         <Route path="/login" component={Login}></Route>
+        <Route path="/" component={Main}></Route>
       </Switch>
     </div>
   );

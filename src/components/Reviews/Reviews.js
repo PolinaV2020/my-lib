@@ -14,14 +14,6 @@ const Reviews = (props) => {
     getReviews();
   }, []);
 
-  const createReview = async () => {
-    const response = await axios.post("http://localhost:3001/reviews", {
-      title: "gggg",
-      review: "8888888",
-      userId: 3
-    });
-    setReviews([...reviews, response.data]);
-  };
 
   return (
     <div>
@@ -36,7 +28,12 @@ const Reviews = (props) => {
         );
       })}
       <div>
-        <button onClick={createReview}>Create review</button>
+        <form>
+          <input type="text" placeholder="Post title"></input>
+          <input type="text" placeholder="Post"></input>
+          <button>Create a post</button>
+        </form>
+        
       </div>
     </div>
   );

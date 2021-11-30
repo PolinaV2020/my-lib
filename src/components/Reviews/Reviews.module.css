@@ -1,0 +1,59 @@
+.pageWrapper {
+  padding: 50px;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.reviewsList {
+  width: 60%;
+}
+
+.reviewContainer {
+  padding: 20px;
+  margin-bottom: 20px;
+  border: 4px solid #1d3557;
+}
+
+.reviewText {
+  color: #1d3557;
+}
+
+.newReview {
+  padding-top: 50px;
+  width: 35%;
+}
+
+.form {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+}
+
+.titleInput,
+.textInput {
+  padding: 15px;
+  margin-bottom: 20px;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  width: 50%;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 18px;
+  color: #1d3557;
+}
+
+.pageTitle {
+  font-size: 60px;
+  padding: 3% 0 4% 0;
+  color: #e63946;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-transform: uppercase;
+}

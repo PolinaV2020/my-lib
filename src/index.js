@@ -6,6 +6,10 @@ import { createStore } from "redux";
 
 import App from "./App/App";
 import reducer from "../src/reducers/reducer.js";
+import { StylesProvider } from "@material-ui/core";
+import styles from "./App/App.module.css";
+import "./index.css"
+import "./assets/fonts/futura/Futura-Book-font.ttf";
 
 const store = createStore(reducer);
 
@@ -13,7 +17,7 @@ ReactDOM.render(
   <React.StrictMode>
     <Provider store={store}>
       <BrowserRouter>
-        <App />
+        <App className={styles.app}/>
       </BrowserRouter>
     </Provider>
   </React.StrictMode>,

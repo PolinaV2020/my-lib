@@ -1,0 +1,80 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+  margin-top: 5%;
+  min-height: 100%;
+  color: #1d3557;
+}
+
+.pageTitle {
+  margin: 0;
+  padding: 3% 0 4% 0;
+  width: 50%;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 90px;
+  text-transform: uppercase;
+}
+
+.booksList {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  padding-bottom: 120px;
+  justify-content: space-around;
+  align-items: flex-start;
+  background-color: #1d3557;
+}
+
+.bookContainer {
+  display: flex;
+  width: 280px;
+  justify-content: center;
+  align-items: center;
+}
+
+.bookLink {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.bookImageWrapper {
+  display: flex;
+  justify-content: center;
+  width: 180px;
+  padding: 20px;
+  background-color: #f1faee;
+}
+
+.bookImage {
+  height: 200px;
+}
+
+.bookDescription {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.bookTitle {
+  padding: 10px 0;
+  font-size: 20px;
+}
+
+.bookAuthor {
+  font-size: 18px;
+}
+
+.bookTitle,
+.bookAuthor {
+  margin: 0;
+  text-align: center;
+  font-weight: 400;
+  color: #ffffff;
+}

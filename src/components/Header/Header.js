@@ -1,10 +1,10 @@
 import { Router } from "../Navigation/Navigation.js";
 import Navigation from "../Navigation/Navigation.js";
-import classes from "./Header.module.css";
+import styles from "./Header.module.css";
 
 const Header = () => {
   return (
-    <header>
+    <header className={styles.header}>
       <Navigation />
     </header>
   );

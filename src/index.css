@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "FuturaBook";
+  src: local("FuturaBook"),
+    url("./assets/fonts/futura/Futura-Book-font.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "FuturaBookBold";
+  src: local("FuturaBookBold"),
+    url("./assets/fonts/futura/Futura-Book-font.ttf") format("truetype");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "FuturaBook";
+}
+
+
+a {
+  text-decoration: none;
+}

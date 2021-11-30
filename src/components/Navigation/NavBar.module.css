@@ -1,7 +1,9 @@
 .navbar {
   display: flex;
+  width: 90%;
   justify-content: space-between;
-  padding: 10px 50px;
+  align-items: center;
+  padding: 20px;
   font-size: 20px;
   font: "Montserrat";
 }

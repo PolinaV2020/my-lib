@@ -121,7 +121,8 @@
       "pages": 472,
       "description": "JavaScript lies at the heart of almost every modern web application, from social apps like Twitter to browser-based game frameworks like Phaser and Babylon. Though simple for beginners to pick up and play with, JavaScript is a flexible, complex language that you can use to build full-scale applications.",
       "website": "http://eloquentjavascript.net/",
-      "image": "https://eloquentjavascript.net/img/cover.jpg"
+      "image": "https://eloquentjavascript.net/img/cover.jpg",
+      "genre": "non-fiction"
     },
     {
       "id": 2,
@@ -134,7 +135,8 @@
       "pages": 334,
       "description": "To get the most out of modern JavaScript, you need learn the latest features of its parent specification, ECMAScript 6 (ES6). This book provides a highly practical look at ES6, without getting lost in the specification or its implementation details.",
       "website": "https://github.com/mjavascript/practical-modern-javascript",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51LHTs-4ziL._SX331_BO1,204,203,200_.jpg"
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51LHTs-4ziL._SX331_BO1,204,203,200_.jpg",
+      "genre": "educational"
     },
     {
       "id": 3,
@@ -147,7 +149,8 @@
       "pages": 352,
       "description": "ECMAScript 6 represents the biggest update to the core of JavaScript in the history of the language. In Understanding ECMAScript 6, expert developer Nicholas C. Zakas provides a complete guide to the object types, syntax, and other exciting changes that ECMAScript 6 brings to JavaScript.",
       "website": "https://leanpub.com/understandinges6/read",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/512T+d+VK6L._SX376_BO1,204,203,200_.jpg"
+      "image": "https://images-na.ssl-images-amazon.com/images/I/512T+d+VK6L._SX376_BO1,204,203,200_.jpg",
+      "genre": "non-fiction"
     },
     {
       "id": 4,
@@ -160,7 +163,8 @@
       "pages": 460,
       "description": "Like it or not, JavaScript is everywhere these days -from browser to server to mobile- and now you, too, need to learn the language or dive deeper than you have. This concise book guides you into and through JavaScript, written by a veteran programmer who once found himself in the same position.",
       "website": "http://speakingjs.com/",
-      "image": "https://www.oreilly.com/library/view/speaking-javascript/9781449365028/orm_front_cover.jpg"
+      "image": "https://www.oreilly.com/library/view/speaking-javascript/9781449365028/orm_front_cover.jpg",
+      "genre": "non-fiction"
     },
     {
       "id": 5,
@@ -173,7 +177,8 @@
       "pages": 254,
       "description": "With Learning JavaScript Design Patterns, you'll learn how to write beautiful, structured, and maintainable JavaScript by applying classical and modern design patterns to the language. If you want to keep your code efficient, more manageable, and up-to-date with the latest best practices, this book is for you.",
       "website": "http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/",
-      "image": "https://addyosmani.com/resources/essentialjsdesignpatterns/cover/cover.jpg"
+      "image": "https://addyosmani.com/resources/essentialjsdesignpatterns/cover/cover.jpg",
+      "genre": "non-fiction"
     },
     {
       "id": 8,
@@ -186,7 +191,22 @@
       "pages": 310,
       "description": "Get the most out of this foundational reference and improve the productivity of your software teams. This open access book collects the wisdom of the 2017 \"Dagstuhl\" seminar on productivity in software engineering, a meeting of community leaders, who came together with the goal of rethinking traditional definitions and measures of productivity.",
       "website": "https://doi.org/10.1007/978-1-4842-4221-6",
-      "image": "https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-4842-4221-6"
+      "image": "https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-4842-4221-6",
+      "genre": "non-fiction"
+    },
+    {
+      "id": 9,
+      "isbn": "0525656979",
+      "title": "Great Circle: A novel",
+      "subtitle": "",
+      "author": "Maggie Shipstead ",
+      "published": "2021-05-11T00:00:00.000Z",
+      "publisher": "Apress",
+      "pages": 740,
+      "description": "After being rescued as infants from a sinking ocean liner in 1914, Marian and Jamie Graves are raised by their dissolute uncle in Missoula, Montana. There--after encountering a pair of barnstorming pilots passing through town in beat-up biplanes--Marian commences her lifelong love affair with flight. At fourteen she drops out of school and finds an unexpected and dangerous patron in a wealthy bootlegger who provides a plane and subsidizes her lessons, an arrangement that will haunt her for the rest of her life, even as it allows her to fulfill her destiny: circumnavigating the globe by flying over the North and South Poles.",
+      "website": "https://www.amazon.com/dp/B08H17FP36/ref=s9_acsd_al_bw_c2_x_7_t?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-5&pf_rd_r=590P8MN7HJKZ6JVEKE7K&pf_rd_t=101&pf_rd_p=506f9b01-6e86-42fc-8062-77c52e0c869f&pf_rd_i=17276804011",
+      "image": "https://m.media-amazon.com/images/I/419utDzUzkS.jpg",
+      "genre": "historical"
     }
   ]
 }

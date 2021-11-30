@@ -32,21 +32,8 @@
   flex-direction: column;
 }
 
-.titleInput,
-.textInput {
-  padding: 15px;
-  margin-bottom: 20px;
-}
-
 .button {
-  display: flex;
-  justify-content: center;
-  padding: 10px;
-  width: 50%;
-  text-transform: uppercase;
-  font-weight: 700;
-  font-size: 18px;
-  color: #1d3557;
+    width: 50%;
 }
 
 .pageTitle {

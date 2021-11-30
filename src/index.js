@@ -6,7 +6,6 @@ import { createStore } from "redux";
 
 import App from "./App/App";
 import reducer from "../src/reducers/reducer.js";
-import { StylesProvider } from "@material-ui/core";
 import styles from "./App/App.module.css";
 import "./index.css"
 import "./assets/fonts/futura/Futura-Book-font.ttf";

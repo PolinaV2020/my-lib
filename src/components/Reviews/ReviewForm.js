@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Button from "../UI/buttons/Button.js";
+import CustomButton from "../UI/buttons/CustomButton.js";
 import Input from "../UI/inputs/Input.js";
 import styles from "./Reviews.module.css";
 
@@ -31,7 +31,7 @@ const ReviewForm = ({create}) => {
         type="text"
         placeholder="Post"
       ></Input>
-      <Button onClick={addNewReview}>Create a post</Button>
+      <CustomButton onClick={addNewReview}>Create a post</CustomButton>
     </form>
   );
 };

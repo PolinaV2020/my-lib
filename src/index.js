@@ -4,9 +4,9 @@ import { BrowserRouter } from "react-router-dom";
 import { Provider } from "react-redux";
 import { createStore } from "redux";
 
-import App from "./App/App";
+import App from "./components/App/App.js";
 import reducer from "../src/reducers/reducer.js";
-import styles from "./App/App.module.css";
+import styles from "./components/App/App.module.css";
 import "./index.css"
 import "./assets/fonts/futura/Futura-Book-font.ttf";
 

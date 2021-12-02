@@ -1,0 +1,7 @@
+.pagination {
+  display: flex;
+}
+
+.paginationButton {
+  padding-right: 10px;
+}

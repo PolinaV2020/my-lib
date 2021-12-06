@@ -5,7 +5,7 @@ import { Provider } from "react-redux";
 import { createStore } from "redux";
 
 import App from "./components/App/App.js";
-import reducer from "../src/reducers/reducer.js";
+import reducer from "./reducers/bookReducer.js";
 import styles from "./components/App/App.module.css";
 import "./index.css"
 import "./assets/fonts/futura/Futura-Book-font.ttf";
